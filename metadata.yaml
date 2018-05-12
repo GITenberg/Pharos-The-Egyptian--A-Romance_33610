@@ -1,0 +1,29 @@
+_repo: Pharos-The-Egyptian--A-Romance_33610
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33610-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Boothby, Guy
+    alias: Boothby, Guy Newell
+    birthdate: 1867
+    deathdate: 1905
+    gutenberg_agent_id: '3587'
+    url: http://www.gutenberg.org/2009/agents/3587
+    wikipedia: http://en.wikipedia.org/wiki/Guy_Boothby
+description: ''
+gutenberg_issued: '2010-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- Fiction'
+- !lcsh 'Paranormal fiction'
+- !lcc 'PR'
+title: 'Pharos, The Egyptian: A Romance'
+url: http://www.gutenberg.org/ebooks/33610
